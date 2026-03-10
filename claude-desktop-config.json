@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "simub": {
+      "command": "node",
+      "args": ["C:/path/to/mcp-simub/dist/index.js"],
+      "env": {
+        "SIMUB_API_KEY": "YOUR_API_KEY_HERE",
+        "SIMUB_BASE_URL": "https://simub.com"
+      }
+    }
+  }
+}
